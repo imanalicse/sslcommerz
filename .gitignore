@@ -1,0 +1,39 @@
+# Hidden files
+.*
+._*
+!.htaccess
+!.gitignore
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Adobe files to ignore
+*.psd
+*.ai
+
+# Logs
+*.log
+
+# Compiled source
+*.dll
+*.exe
+*.o
+*.so
+
+# OS generated files
+*.lock
+*.DS_Store
+*.swp
+*.out
+ehthumbs.db
+Thumbs.db
+
+SOURCE/*
+.idea/*
